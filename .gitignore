@@ -1,0 +1,7 @@
+public/
+resources/
+drafts/
+_local/
+.vscode
+content/.obsidian
+assets/jsconfig.json
