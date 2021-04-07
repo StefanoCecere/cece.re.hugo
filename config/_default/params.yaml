@@ -7,7 +7,7 @@
 
 theme: orange
 day_night: false
-font: ''
+font: 'native'
 font_size: L
 
 # SEO

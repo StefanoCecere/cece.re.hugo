@@ -11,8 +11,9 @@ design:
     color: 'white'
 weight: 2
 ---
-{{< figure src="stefano.png" >}}
 
-Hi and welcome to this secret space.  
-If you are looking for Stefano, go here: [stefano.cecere.org](https://stefano.cecere.org)
+![](/img/stefano.png)
+
+Ciao.  
+If you are looking for Stefano: [stefano.cecere.org](https://stefano.cecere.org)
 
