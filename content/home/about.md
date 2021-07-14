@@ -15,5 +15,5 @@ weight: 2
 ![](/img/stefano.png)
 
 Ciao.  
-If you are looking for Stefano: [stefano.cecere.org](https://stefano.cecere.org)
+If you are looking for Stefano: [stefanocecere.com](https://stefanocecere.com)
 
